@@ -1,0 +1,22 @@
+font-family: 'Oswald', sans-serif;
+
+--text--color1:  #14264A;
+--btn--bgColor: #4D85DA;
+--border-radius--8px: 8px;
+--border-radius--10px: 10px;
+--hero--background-color: #F5F9FF;
+--font-size--16: 16px;
+--font-size--56: 56px;
+--placeholder--color:background: #A6ABB2;
+--text--color2: #333;
+
+
+--category--background-color1: #DDE9FB;
+--category--background-color2: #FBDEDE;
+--category--background-color3: #DDE9FB;
+--category--background-color4: #FBECDE;
+--category--background-color5: #ECFFEE;
+--category--background-color6: #FBECDE;
+--category--background-color7: #FBDEDE;
+
+
